@@ -19,3 +19,7 @@ mail = Mail()
 
 from flask.ext.debugtoolbar import DebugToolbarExtension
 debug_toolbar = DebugToolbarExtension()
+
+
+from elasticsearch import Elasticsearch
+es = Elasticsearch()
