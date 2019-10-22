@@ -33,7 +33,7 @@ Mako==1.0.0
 MarkupSafe==0.23
 mongoengine==0.8.7
 passlib==1.6.2
-Pillow==2.5.1
+Pillow==6.2.0
 py-bcrypt==0.4
 pymongo==2.7.1
 python-dateutil==2.4.2
